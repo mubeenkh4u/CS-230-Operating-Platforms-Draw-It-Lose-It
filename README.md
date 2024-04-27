@@ -1,4 +1,4 @@
-# Gaming Rooms' Draw It or Lose It
+# Gaming Room's Draw It or Lose It
 
 [Project-Files/Software Design Document](https://github.com/mubeenkh4u/CS-230-Operating-Platforms-Draw-It-Lose-It/blob/main/Project-Files/Software%20Design%20Document.docx)
 
