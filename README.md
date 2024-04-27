@@ -1,7 +1,9 @@
-# CS-230-Operating-Platforms-Draw-It-Lose-It
+# Gaming Rooms' Draw It or Lose It
+
+[Project-Files/Software Design Document](https://github.com/mubeenkh4u/CS-230-Operating-Platforms-Draw-It-Lose-It/blob/main/Project-Files/Software%20Design%20Document.docx)
 
 ## Summary of The Gaming Room Client and Software Requirements
-The Gaming Room is looking for help to expedite the creation of a web-based version of their gaming program. The main software requirements include:
+The Gaming Room is looking for help to expedite the creation of a web-based version of their gaming program (Draw It or Lose It). The main software requirements include:
 - Business Requirements:
   *	The ability to play with several teams and players.
   *	Users can be identified by their game and team names.
